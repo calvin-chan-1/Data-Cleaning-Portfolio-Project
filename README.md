@@ -1,4 +1,4 @@
-# DataCleaningPortfolioProject
+# Data-Cleaning-Portfolio-Project
 1) Cleaned Data and made it more usable
 2) Created new columns to make it more usable/friendly
 3) Used CONVERT to change date format
